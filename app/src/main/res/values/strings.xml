@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ReactiveLogin</string>
+    <string name="format_hello">Olá!: %s</string>
+    <string name="your_name">Seu nome</string>
+    <string name="last_name">Sobrenome</string>
+    <string name="password">senha</string>
+    <string name="enter">ENTRAR</string>
+</resources>
